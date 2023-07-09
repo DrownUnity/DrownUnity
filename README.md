@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Esaá</h1>
-<h3 align="center">A passionate fullStack developer from Venezuela</h3>
+<h3 align="center">A passionate fullStack developer</h3>
 
 - I am a Junior Full Stack Developer with knowledge in React, Redux, Node, Express, Sequelize, and SQL. Although I lack work experience, I have worked on personal and academic projects, demonstrating my ability to learn independently. I am a motivated individual, quick to acquire new skills, and adaptable to new environments. I am eager to join a professional team and collaborate on challenging projects that drive my personal and professional growth.
 
