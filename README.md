@@ -3,7 +3,7 @@
 
 - I am a Junior Full Stack Developer with knowledge in React, Redux, Node, Express, Sequelize, and SQL. Although I lack work experience, I have worked on personal and academic projects, demonstrating my ability to learn independently. I am a motivated individual, quick to acquire new skills, and adaptable to new environments. I am eager to join a professional team and collaborate on challenging projects that drive my personal and professional growth.
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **PHP**
 
 - 📫 How to reach me **pabloesaaray@gmail.com**
 
